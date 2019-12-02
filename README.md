@@ -1,3 +1,6 @@
+# Deprecation Notice
+This repository used to live at https://github.com/hmrc/slugrunner but has since been deprecated and moved to https://github.com/hmrc/slugrunner-deprecated. Please use its successor, which can be found at https://github.com/hmrc/slugrunner
+
 # (Heroku-ish) Slug Runner
 A [Docker](http://docker.io) container that runs Heroku-like [slugs](https://devcenter.heroku.com/articles/slug-compiler) produced by [slugbuilder](https://github.com/flynn/slugbuilder).
 
